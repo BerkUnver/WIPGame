@@ -3,7 +3,7 @@
 # Work-In-Progress Indie Game
 <img src="Sitting.png" width="336" height="196">
 
-This is a summary of my experience working on my long-term game development project for three. It represents my journey as a programmer and artist. It is very much a work in progress and I will continue to work on it into the foreseeable future.
+This is a summary of my experience working on my long-term game development project for three years. It represents my journey as a programmer and artist. It is very much a work in progress and I will continue to work on it into the foreseeable future.
 I hope to... No. I know I will someday publish it.
 
 Notable features right now include satisfying platforming physics, a beat-em-up-style combat system with a handful of moves, a well-fleshed out dialog character system, a map editor, a developer console, an animation metadata editor, and some cutscenes.
